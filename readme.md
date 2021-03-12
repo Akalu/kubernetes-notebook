@@ -64,8 +64,12 @@ References
 ===========
 
 [1] https://kubernetes.io/docs/tutorials/kubernetes-basics/
+
 [2] https://minikube.sigs.k8s.io/docs/handbook/
+
 [3] https://minikube.sigs.k8s.io/docs/start/
+
 [4] https://github.com/kubernetes-client/java
+
 [5] https://github.com/kubernetes-client/python
 
