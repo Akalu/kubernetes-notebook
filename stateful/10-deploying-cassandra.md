@@ -6,10 +6,10 @@ Minikube - a tool that lets you run Kubernetes locally, i.e. minikube runs a sin
 The problem
 ============
 
-* Create and validate a Cassandra headless Service.
-* Use a StatefulSet to create a Cassandra ring.
-* Validate the StatefulSet.
-* Modify the StatefulSet.
+* Create and validate a Cassandra headless Service
+* Use a StatefulSet to create a Cassandra ring
+* Validate the StatefulSet
+* Modify the StatefulSet
 * Delete the StatefulSet and its Pods
 
 Solution

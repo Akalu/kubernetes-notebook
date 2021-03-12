@@ -7,10 +7,10 @@ Minikube - a tool that lets you run Kubernetes locally, i.e. minikube runs a sin
 The problem
 ============
 
-How to deploy a ZooKeeper ensemble using StatefulSet.
-How to consistently configure the ensemble.
-How to spread the deployment of ZooKeeper servers in the ensemble.
-How to use PodDisruptionBudgets to ensure service availability during planned maintenance
+* How to deploy a ZooKeeper ensemble using StatefulSet
+* How to consistently configure the ensemble
+* How to spread the deployment of ZooKeeper servers in the ensemble
+* How to use PodDisruptionBudgets to ensure service availability during planned maintenance
 
 Solution
 =========
